@@ -1,0 +1,29 @@
+1. grep
+  grep is used to search text for patterns specified by the user
+  Syntax: grep [option(s)] pattern [file(s)]
+2. curl
+  The curl command is used to download or upload data using protocols such as FTP, SFTP, HTTP and HTTPS.
+  Syntax: curl [OPTIONS] [URL...]
+3. locate — Locate a specific file or directory
+  Syntax: locate [option(s)] file_name(s)
+4. which
+  The which command is used to identify and report the location of the provided executable.
+  Syntax: which [OPTIONS] FILE_NAME
+5. history — list your most recent commands
+  Syntax: history
+6. top
+  The top command can help you monitor running processes and the resources (such as memory) they are currently using.
+  Syntax: top
+7. compgen — Shows all available commands, aliases, and functions
+  compgen is a handy command when you need to reference all available commands, aliases, and functions.
+  Syntax: compgen [option(s)]
+8. > — redirect stdout
+  The > character is the redirect operator.
+  This takes the output from the preceding command that you’d normally see in the terminal and sends it to a file that you give it. 
+  Syntax: >
+9. | — Pipe
+  A pipe takes the standard output of one command and passes it as the input to another.
+  Syntax: |
+10. head — Read the start of a file
+  By default, the head command displays the first 10 lines of a file. 
+  Syntax: head [option(s)] file(s)
