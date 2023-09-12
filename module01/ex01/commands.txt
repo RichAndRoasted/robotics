@@ -26,4 +26,4 @@
   Syntax: |
 10. head — Read the start of a file
   By default, the head command displays the first 10 lines of a file. 
-  Syntax: head [option(s)] file(s )
+  Syntax: head [option(s)] file(s)
