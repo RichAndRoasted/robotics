@@ -1,0 +1,5 @@
+Starting >>> vyacheslav-berezhnoy
+Finished <<< vyacheslav-berezhnoy [0.72s]
+
+Summary: 1 package finished [0.89s]
+  1 package had stderr output: vyacheslav-berezhnoy
