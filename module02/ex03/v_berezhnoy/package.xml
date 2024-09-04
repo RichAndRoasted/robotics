@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>v.berezhnoi</name>
+  <name>v_berezhnoy</name>
   <version>0.0.0</version>
   <description>module02 ex03</description>
   <maintainer email="v.berezhnoy31@gmail.com">rich</maintainer>
