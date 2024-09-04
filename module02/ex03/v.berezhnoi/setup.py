@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'vyacheslav-berezhnoy'
+package_name = 'v.berezhnoi'
 
 setup(
     name=package_name,
@@ -15,8 +15,8 @@ setup(
     zip_safe=True,
     maintainer='rich',
     maintainer_email='v.berezhnoy31@gmail.com',
-    description='My package',
-    license='Apache License 2.0',
+    description='TODO: Package description',
+    license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
